@@ -1,0 +1,15 @@
+p.stepik{
+    border: 1px solid green;
+    background-color: burlywood;
+    padding: 10 px;
+    margin: 50 px;
+    width: 50 px;
+    height: 20 px;
+}
+a.text1:hover{
+    text-decoration-line: underline;
+    color: red;
+}
+title{   
+    background-color: aqua;
+}
